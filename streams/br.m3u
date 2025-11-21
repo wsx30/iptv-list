@@ -1,8 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Multishow.br@HD" tvg-logo="" group-title="undefined", Multishow (HD)
-https://d1muf25xa11so8hp21.s27-usa-cloudfront-net.online/token/e5f7995c9ae1e24cc8557b95ad8f5fab/multishow.m3u8
 #EXTINF:-1 tvg-id="Megapix.br@HD" tvg-logo="" group-title="undefined" http-referrer="https://p2player.live/" http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36", Megapix (HD)
 https://image-storage-3005.imgcontent.xyz/live/megapix/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.br@HD" tvg-logo="" group-title="undefined", Comedy Central (HD)
-https://d1muf25xa11so8hp21.s27-usa-cloudfront-net.online/token/21f54488ea77306c38d240c0065f4504/comedycentral.m3u8
-
